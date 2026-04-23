@@ -1,1 +1,1 @@
-# basicCalculator
+# basic calculator
